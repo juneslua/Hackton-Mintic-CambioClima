@@ -4,9 +4,9 @@ const {Types} = require('mongoose');
 
 // - - - > HELPERS
 
-function pieData(dataArr)
+function pieData(dataArr,categoria)
 {
-	let output = {name:"Emisiones", children:[]};
+	let output = [];
 	const regex = /(?=.+)[vi]+/;
 
 	for (const item of dataArr)
@@ -16,11 +16,12 @@ function pieData(dataArr)
 		const numeral = regex.exec(code);
 		const nCode = code.split(regex)[0].split("");
 		const keys = numeral ? Array.prototype.concat(nCode, numeral) : nCode;
-
-		output.children = recursiveInsert(item,keys,output.children);
+		
+		if (keys[0] == categoria)
+			output = recursiveInsert(item,keys,output);
 	}
 
-	const json = JSON.stringify(output,(key,value) =>{
+	const json = JSON.stringify(output[0],(key,value) =>{
 		 if(key == "category") return undefined;
 		 return value;
 	});
@@ -113,7 +114,7 @@ const crud = {
 	db_readAsPie(req, res) {
 		Emisiones.find()
 			.then(result => {
-				res.status(200).json(JSON.parse(pieData(result)));
+				res.status(200).json(JSON.parse(pieData(result,req.params.categoria)));
 			})
 			.catch(err => {
 				res.status(500).json({error:"500 - Error Interno"});

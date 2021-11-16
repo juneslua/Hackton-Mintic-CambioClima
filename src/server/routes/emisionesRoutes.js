@@ -8,7 +8,7 @@ router.post("/", controller.db_create);
 
 // - - - > GET
 router.get("/", controller.db_read);
-router.get("/pie", controller.db_readAsPie);
+router.get("/pie/:categoria", controller.db_readAsPie);
 router.get("/:id", controller.db_readById);
 
 // - - - > PATCH
