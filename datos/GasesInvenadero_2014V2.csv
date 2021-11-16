@@ -1,0 +1,357 @@
+anio,cat_ipcc2006,categoria,co2_absorciones_Gg,co2_emisiones_Gg,ch4_emisiones_Gg,n2o_emisiones_Gg,emisiones_totales_Gg_CO2eq,emisiones_con_absorciones_Gg_CO2eq
+2014,1,Energía,NA,72537.64,415.00,4.06,82509.85,82509.85
+2014,1A,Actividades de quema de combustible,NA,72348.99,61.06,2.62,74442.74,74442.74
+2014,1A1,Industrias de la energía,NA,23252.79,4.65E-01,0.14,23307.40,23307.40
+2014,1A1a,Producción de electricidad y calor como actividad principal,NA,11937.81,1.93E-01,0.10,11972.91,11972.91
+2014,1A1ai,Generación de electricidad,NA,11937.81,1.93E-01,0.10,11972.91,11972.91
+2014,1A1aii,Generación combinada de calor y energía (CHP),NA,NO,NO,NO,NO,NO
+2014,1A1aiii,Plantas generadoras de energía (CHP),NA,NO,NO,NO,NO,NO
+2014,1A1b,Refinación de petróleo,NA,2560.31,4.64E-02,0.00,2562.72,2562.72
+2014,1A1c,Fabricación de combustibles sólidos y otras industrias energéticas,NA,8754.66,2.26E-01,0.04,8771.76,8771.76
+2014,1A1ci,Manufactura de combustibles sólidos,NA,1464.31,2.61E-04,NE,1464.32,1464.32
+2014,1A1cii,Otras industrias de la energía,NA,7290.35,2.25E-01,0.04,7307.44,7307.44
+2014,1A2,Industrias manufactureras y de la construcción,NA,14045.72,3.67,0.50,14276.36,14276.36
+2014,1A2a,Hierro y acero,NA,940.82,7.19E-02,0.01,945.61,945.61
+2014,1A2b,Metales no ferrosos,NA,IE,IE,IE,IE,IE
+2014,1A2c,Productos químicos,NA,1156.10,9.62E-02,0.01,1161.98,1161.98
+2014,1A2d,Pulpa. papel e imprenta,NA,1744.94,1.41E-01,0.02,1754.32,1754.32
+2014,1A2e,Procesamiento de alimentos. bebidas y tabaco,NA,2320.80,2.45,0.33,2474.24,2474.24
+2014,1A2f,Minerales no metálicos,NA,6087.71,7.71E-01,0.10,6135.64,6135.64
+2014,1A2g,Equipo de transporte,NA,30.02,7.98E-04,0.00,30.07,30.07
+2014,1A2h,Maquinaria,NA,104.29,3.40E-03,0.00,104.50,104.50
+2014,1A2i,Minería (con excepción de combustibles) y cantería,NA,1.21,5.23E-05,0.00,1.21,1.21
+2014,1A2j,Madera y productos de la madera,NA,27.90,2.35E-03,0.00,28.03,28.03
+2014,1A2k,Construcción,NA,302.11,1.22E-02,0.00,303.12,303.12
+2014,1A2l,Textiles y cueros,NA,1132.09,1.16E-01,0.02,1139.56,1139.56
+2014,1A2m,Industria no especificada,NA,197.73,7.31E-03,0.00,198.08,198.08
+2014,1A3,Transporte,NA,28711.80,9.19,1.34,29319.12,29319.12
+2014,1A3a,Aviación civil,NA,1940.41,1.32E-02,0.05,1957.03,1957.03
+2014,1A3aii,Aviación de cabotaje,NA,1940.41,1.32E-02,0.05,1957.03,1957.03
+2014,1A3b,Transporte terrestre,NA,25862.90,8.36,1.22,26416.41,26416.41
+2014,1A3bi,Automóviles,NA,9936.29,5.87,0.47,10206.51,10206.51
+2014,1A3bi1,Automóviles de pasajeros con catalizadores tridireccionales,NA,IE,IE,IE,IE,IE
+2014,1A3bi2,Automóviles de pasajeros sin catalizadores tridireccionales,NA,IE,IE,IE,IE,IE
+2014,1A3bii,Camiones para servicio ligero,NA,2867.19,1.16,0.15,2936.96,2936.96
+2014,1A3bii1,Camiones para servicio ligero con catalizadores tridireccionales,NA,IE,IE,IE,IE,IE
+2014,1A3bii2,Camiones para servicio ligero sin catalizadores tridireccionales,NA,IE,IE,IE,IE,IE
+2014,1A3biii,Camiones para servicio pesado y autobuses,NA,10529.86,9.30E-01,0.56,10723.52,10723.52
+2014,1A3biv,Motocicletas,NA,2529.56,4.04E-01,0.04,2549.42,2549.42
+2014,1A3bv,Emisiones por evaporación procedentes de vehículos,NA,NE,NE,NE,NE,NE
+2014,1A3bvi,Catalizadores basados en urea,NA,NE,NE,NE,NE,NE
+2014,1A3c,Ferrocarriles,NA,73.78,4.03E-03,0.03,82.04,82.04
+2014,1A3d,Navegación marítima y fluvial,NA,253.06,2.50E-02,0.01,255.80,255.80
+2014,1A3dii,Navegación marítima y fluvial nacional,NA,253.06,2.50E-02,0.01,255.80,255.80
+2014,1A3e,Otro tipo de transporte,NA,581.66,7.85E-01,0.03,607.83,607.83
+2014,1A3ei,Transporte por gasoductos,NA,464.90,7.70E-01,0.03,488.85,488.85
+2014,1A3eii,Todo terreno,NA,116.76,1.48E-02,0.01,118.98,118.98
+2014,1A4,Otros sectores,NA,6338.68,47.73,0.64,7539.86,7539.86
+2014,1A4a,Comercial / Institucional,NA,1090.51,1.02E-01,0.00,1093.27,1093.27
+2014,1A4b,Residencial,NA,3650.94,42.67,0.56,4721.38,4721.38
+2014,1A4c,Agricultura / Silvicultura / Pesca / Piscifactorías,NA,1597.23,4.96,0.08,1725.20,1725.20
+2014,1A4ci,Estacionaria,NA,1577.20,4.95,0.08,1704.79,1704.79
+2014,1A4cii,Vehículos todo terreno y maquinaria,NA,20.03,2.62E-03,0.00,20.41,20.41
+2014,1A4cii,Pesca,NA,IE,IE,IE,IE,IE
+2014,1A5,No especificado,NA,NO,NO,NO,NO,NO
+2014,1A5a,Estacionario,NA,NO,NO,NO,NO,NO
+2014,1A5b,Móvil,NA,NO,NO,NO,NO,NO
+2014,1A5bi,Móvil (componente aviación),NA,NO,NO,NO,NO,NO
+2014,1A5bii,Móvil (componente del sector marítimo y fluvial),NA,NO,NO,NO,NO,NO
+2014,1A5biii,Móvil (otros),NA,NO,NO,NO,NO,NO
+2014,1B,Emisiones fugitivas provenientes de la fabricación de combustible,NA,188.65,353.95,1.44,8067.11,8067.11
+2014,1B1,Combustibles sólidos,NA,1.16,116.11,NA,2439.47,2439.47
+2014,1B1a,Minería carbonífera y manejo del carbón,NA,1.16,116.11,NA,2439.47,2439.47
+2014,1B1ai,Minas subterráneas,NA,1.16,52.70,NA,1107.84,1107.84
+2014,1B1ai1,Minería,NA,9.41E-01,40.54,NA,852.23,852.23
+2014,1B1ai2,Emisiones posteriores a la minería,NA,2.20E-01,12.16,NA,255.61,255.61
+2014,1B1ai3,Minas subterráneas abandonadas,NA,NE,NE,NA,NE,NE
+2014,1B1ai4,Quema en antorcha de metano drenado o conversión de metano en CO2,NA,NE,NE,NA,NE,NE
+2014,1B1aii,Minas de superficie,NA,NE,63.41,NA,1331.63,1331.63
+2014,1B1aii1,Minería,NA,NE,48.78,NA,1024.33,1024.33
+2014,1B1aii2,Emisiones posteriores a la minería,NA,NE,14.63,NA,307.30,307.30
+2014,1B1b,Combustión espontánea y vertederos para quema de carbón,NA,NE,NE,NA,NE,NE
+2014,1B1c,Transformación de combustibles sólidos,NA,NE,NE,NA,NE,NE
+2014,1B2,Petróleo y gas natural,NA,187.49,237.84,1.44,5627.64,5627.64
+2014,1B2a,Petróleo,NA,141.32,55.86,1.44,1759.73,1759.73
+2014,1B2ai,Venteo,NA,6.47,49.14,NE,1038.33,1038.33
+2014,1B2aii,Quema en antorcha,NA,10.78,1.59E-01,1.44,459.52,459.52
+2014,1B2aiii,Todos los demás,NA,124.07,6.56,0.00,261.88,261.88
+2014,1B2aiii1,Exploración,NA,NE,NE,NE,NE,NE
+2014,1B2aiii2,Producción y refinación,NA,123.56,5.86,NE,246.66,246.66
+2014,1B2aiii3,Transporte,NA,5.09E-01,4.00E-01,0.00,8.92,8.92
+2014,1B2aiii4,Refinación,NA,NE,3.00E-01,NE,6.30,6.30
+2014,1B2aiii5,Distribución de productos de petróleo,NA,NE,NE,NE,NE,NE
+2014,1B2aiii6,Otros,NA,NO,NO,NO,NO,NO
+2014,1B2b,Gas Natural,NA,46.17,181.98,0.00,3867.91,3867.91
+2014,1B2bi,Venteo,NA,22.58,5.11,NE,129.84,129.84
+2014,1B2bii,Quema en antorcha,NA,20.94,1.32E-02,0.00,21.34,21.34
+2014,1B2biii,Todos los demás,NA,2.64,176.86,NE,3716.74,3716.74
+2014,1B2biii1,Exploración,NA,NE,NE,NE,NE,NE
+2014,1B2biii2,Producción,NA,1.42,146.26,NE,3072.94,3072.94
+2014,1B2biii3,Procesamiento,NA,5.28E-02,1.67E-01,NE,3.56,3.56
+2014,1B2biii4,Transmisión y almacenamiento,NA,2.12E-02,8.79,NE,184.57,184.57
+2014,1B2biii5,Distribución,NA,1.15,21.64,NE,455.67,455.67
+2014,1B2biii6,Otros,NA,NO,NO,NO,NO,NO
+2014,1B3,Otras emisiones provenientes de la producción de energía,NA,NA,NA,NA,NA,NA
+2014,1C,Transporte y almacenamiento de dióxido de carbono,NA,NO,NO,NO,NO,NO
+2014,1C1,Transporte de CO2,NA,NO,NO,NO,NO,NO
+2014,1C1a,Gasoductos,NA,NA,NA,NA,NA,NA
+2014,1C1b,Embarcaciones,NA,NA,NA,NA,NA,NA
+2014,1C1c,Otros,NA,NA,NA,NA,NA,NA
+2014,1C2,Inyección y almacenamiento,NA,NA,NA,NA,NA,NA
+2014,1C2a,Inyección,NA,NA,NA,NA,NA,NA
+2014,1C2b,Almacenamiento,NA,NA,NA,NA,NA,NA
+2014,1C3,Otros,NA,NA,NA,NA,NA,NA
+2014,2,Procesos Industriales y Uso de Productos,NA,7674.89,1.03,2.56,10537.76,10537.76
+2014,2A,Industria de los minerales,NA,5545.21,NA,NA,5545.21,5545.21
+2014,2A1,Producción de cemento,NA,5277.31,NA,NA,5277.31,5277.31
+2014,2A2,Producción de cal,NA,121.81,NA,NA,121.81,121.81
+2014,2A3,Producción de vidrio,NA,95.31,NA,NA,95.31,95.31
+2014,2A4,Otros usos de carbonatos en los procesos,NA,50.77,NA,NA,50.77,50.77
+2014,2A4a,Cerámicas,NA,NA,NA,NA,NA,NA
+2014,2A4b,Otros usos de la ceniza de sosa,NA,50.77,NA,NA,50.77,50.77
+2014,2A4c,Producción de magnesia no metalúrgica,NA,NA,NA,NA,NA,NA
+2014,2A4d,Otros (especificar),NA,NA,NA,NA,NA,NA
+2014,2A5,Otros,NA,NA,NA,NA,NA,NA
+2014,2B,Industria Química,NA,544.72,1.01,2.56,1359.66,1359.66
+2014,2B1,Producción de amoníaco,NA,178.84,NA,NA,178.84,178.84
+2014,2B2,Producción de ácido nítrico,NA,NA,NA,2.56,793.80,793.80
+2014,2B3,Producción de ácido adípico,NA,NA,NA,NO,NO,NO
+2014,2B4,Producción de caprolactama. glioxil y ácido glioxílico,NA,NA,NA,NO,NO,NO
+2014,2B5,Producción de carburo,NA,NO,NO,NA,NO,NO
+2014,2B6,Producción de dióxido de titanio,NA,NO,NA,NA,NO,NO
+2014,2B7,Producción de ceniza de sosa,NA,NO,NA,NA,NO,NO
+2014,2B8,Producción petroquímica y de negro de humo,NA,365.88,1.01,NA,387.02,387.02
+2014,2B8a,Metanol,NA,NA,NA,NA,NA,NA
+2014,2B8b,Etileno,NA,173.66,1.00,NA,194.60,194.60
+2014,2B8c,Dicloruro de etileno y monómero cloruro de vinilo,NA,99.03,0.01,NA,99.19,99.19
+2014,2B8d,Óxido de etileno,NA,NA,NA,NA,NA,NA
+2014,2B8e,Acrilonitrilo,NA,NA,NA,NA,NA,NA
+2014,2B8f,Negro de humo,NA,93.19,0.00,NA,93.23,93.23
+2014,2B8g,Otros,NA,NA,NA,NA,NA,NA
+2014,2B9,Producción fluoroquímica,NA,NA,NA,NA,NA,NA
+2014,2B9a,Emisiones de productos derivados,NA,NA,NA,NA,NA,NA
+2014,2B9b,Emisiones fugitivas,NA,NA,NA,NA,NA,NA
+2014,2B10,Otros,NA,NA,NA,NA,NA,NA
+2014,2C,Industria de los metales,NA,1563.56,2.63E-02,NA,1564.11,1564.11
+2014,2C1,Producción de hierro y acero,NA,698.18,2.63E-02,NA,698.73,698.73
+2014,2C2,Producción de ferroaleaciones,NA,865.38,NA,NA,865.38,865.38
+2014,2C3,Producción de aluminio,NA,NO,NA,NA,NO,NO
+2014,2C4,Producción de magnesio,NA,NO,NA,NA,NO,NO
+2014,2C5,Producción de plomo,NA,NE,NA,NA,NE,NE
+2014,2C6,Producción de zinc,NA,NO,NA,NA,NO,NO
+2014,2C7,Otros,NA,NA,NA,NA,NA,NA
+2014,2D,Uso  de productos no energéticos de combustibles y de solvente,NA,21.41,NA,NA,21.41,21.41
+2014,2D1,Uso de lubricantes,NA,3.41E-01,NA,NA,3.41E-01,3.41E-01
+2014,2D2,Uso de cera de parafina,NA,21.07,NA,NA,21.07,21.07
+2014,2D3,Uso de solventes,NA,NA,NA,NA,NA,NA
+2014,2D4,Otros,NA,NA,NA,NA,NA,NA
+2014,2E,Industria electrónica,NA,NA,NA,NA,NO,NO
+2014,20,Circuitos integrados o semiconductores,NA,NA,NA,NA,NO,NO
+2014,200,Pantalla plana tipo TFT,NA,NA,NA,NA,NO,NO
+2014,2000,Celdas fotovoltaícas,NA,NA,NA,NA,NO,NO
+2014,20000,Fluídos de transferencia térmica,NA,NA,NA,NA,NO,NO
+2014,200000,Otros,NA,NA,NA,NA,NO,NO
+2014,2F,Uso de productos sustitutos de las sustancias que agotan la capa de ozono,NA,NA,NA,NA,1890.73,1890.73
+2014,2F1,Refrigeración y aire acondicionado,NA,NA,NA,NA,1608.57,1608.57
+2014,2F1a,Refrigeración y  aire acondicionado estacionario,NA,NA,NA,NA,1358.33,1358.33
+2014,2F1ai,Refrigeración y  aire acondicionado estacionario - industria manufacturera,NA,NA,NA,NA,180.16,180.16
+2014,2F1aii,Refrigeración y  aire acondicionado estacionario - residencial,NA,NA,NA,NA,196.72,196.72
+2014,2F1aii,Refrigeración y  aire acondicionado estacionario - comercial,NA,NA,NA,NA,981.46,981.46
+2014,2F1b,Aire acondicionado móvil,NA,NA,NA,NA,250.24,250.24
+2014,2F1bi,Refrigeración movil (transporte refrigerado) - industria manufacturera,NA,NA,NA,NA,3.68,3.68
+2014,2F1bii,Aire acondicionado móvil,NA,NA,NA,NA,246.55,246.55
+2014,2F2,Agentes espumantes,NA,NA,NA,NA,NO,NO
+2014,2F3,Protección contra incendios,NA,NA,NA,NA,2.78,2.78
+2014,2F4,Aerosoles,NA,NA,NA,NA,151.46,151.46
+2014,2F5,Solventes,NA,NA,NA,NA,127.00,127.00
+2014,2F6,Otras aplicaciones,NA,NA,NA,NA,9.13E-01,9.13E-01
+2014,2G,Manufactura y utilización de otros productos,NA,NA,NA,NE,156.64,156.64
+2014,2G1,Equipos eléctricos,NA,NA,NA,NA,156.64,156.64
+2014,2G1a,Manufactura de equipos eléctricos,NA,NA,NA,NA,NA,NA
+2014,2G1b,Uso de equipos eléctricos,NA,NA,NA,NA,156.64,156.64
+2014,2G1c,Eliminación de equipos eléctricos,NA,NA,NA,NA,NA,NA
+2014,2G2,SF6 y PFCs de otros usos de productos,NA,NA,NA,NA,NE,NE
+2014,2G2a,Aplicaciones militares,NA,NA,NA,NA,NA,NA
+2014,2G2b,Aceleradores,NA,NA,NA,NA,NA,NA
+2014,2G2c,Otros (especificar),NA,NA,NA,NA,NA,NA
+2014,2G3,N2O de usos de productos,NA,NA,NA,NE,NE,NE
+2014,2G3a,Aplicaciones médicas,NA,NA,NA,NA,NA,NA
+2014,2G3b,Propulsor para productos presurizados y aerosoles,NA,NA,NA,NA,NA,NA
+2014,2G3c,Otros (especificar,NA,NA,NA,NA,NA,NA
+2014,2G4,Otros,NA,NA,NA,NA,NA,NA
+2014,2H,Otros,NA,NA,NA,NA,NA,NA
+2014,2H1,Industria de pulpa y el papel,NA,NA,NA,NA,NA,NA
+2014,2H2,Industria de la alimentación y bebidas,NA,NA,NA,NA,NA,NA
+2014,2H3,Otros,NA,NA,NA,NA,NA,NA
+2014,3,Agricultura. Silvicultura. y Otros Usos de la Tierra,-22658.77,86356.30,1096.34,64.94,129512.09,106853.31
+2014,3A,Ganadería,NE,NA,1036.20,3.43,22823.11,22823.11
+2014,3A1,Fermentación entérica,NE,NA,982.14,NA,20625.00,20625.00
+2014,3A1a,Total Ganado Bovino,NE,NA,940.05,NA,19741.00,19741.00
+2014,3A1ai,Ganado Bovino Vacas de Alta Produccion,NE,NA,38.24,NA,803.00,803.00
+2014,3A1aii,Ganado Bovino Vacas de Baja Produccion,NE,NA,165.14,NA,3468.00,3468.00
+2014,3A1aiii,Ganado Bovino Vacas para produccion de carne,NE,NA,290.43,NA,6099.00,6099.00
+2014,3A1aiv,Ganado Bovino Toros utilizados con fines reproductivos,NE,NA,57.52,NA,1208.00,1208.00
+2014,3A1av,Ganado Bovino Terneros pre-destetos,NE,NA,53.52,NA,1124.00,1124.00
+2014,3A1avi,Ganado Bovino Terneras de remplazo,NE,NA,90.76,NA,1906.00,1906.00
+2014,3A1avii,Ganado Bovino Ganado de engorde,NE,NA,244.43,NA,5133.00,5133.00
+2014,3A1b,Búfalos,NE,NA,9.67,NA,203.00,203.00
+2014,3A1c,Ovinos,NE,NA,3.90,NA,82.00,82.00
+2014,3A1d,Caprinos,NE,NA,3.76,NA,79.00,79.00
+2014,3A1e,Camellos,NE,NA,NO,NA,NA,NA
+2014,3A1f,Caballos,NE,NA,21.81,NA,458.00,458.00
+2014,3A1g,Mulas y asnos,NE,NA,0.00,NA,0.00,0.00
+2014,3A1h,Porcinos,NE,NA,2.95,NA,62.00,62.00
+2014,3A1hi,Porcinos < 6 meses,NE,NA,1.24,NA,26.00,26.00
+2014,3A1hii,Porcinos > 6 meses,NE,NA,1.71,NA,36.00,36.00
+2014,3A1j,Otros,NE,NA,0.00,NA,0.00,0.00
+2014,3A2,Gestión de estiércol,NE,NA,54.06,3.43,2198.11,2198.11
+2014,3A2a,Total Ganado Bovino,NE,NA,22.49,0.79,716.08,716.08
+2014,3A2ai,Ganado Bovino Vacas de Alta Produccion,NE,NA,0.46,0.00,9.56,9.56
+2014,3A2aii,Ganado Bovino Vacas de Baja Produccion,NE,NA,3.18,0.18,122.92,122.92
+2014,3A2aiii,Ganado Bovino Vacas para produccion de carne,NE,NA,6.18,0.26,210.39,210.39
+2014,3A2aiv,Ganado Bovino Toros utilizados con fines reproductivos,NE,NA,0.77,0.05,31.02,31.02
+2014,3A2av,Ganado Bovino Terneros pre-destetos,NE,NA,3.90,0.04,92.78,92.78
+2014,3A2avi,Ganado Bovino Terneras de remplazo,NE,NA,2.63,0.08,81.27,81.27
+2014,3A2avii,Ganado Bovino Ganado de engorde,NE,NA,5.37,0.18,168.15,168.15
+2014,3A2b,Búfalos,NE,NA,0.18,0.01,5.58,5.58
+2014,3A2c,Ovinos,NE,NA,0.08,0.01,3.90,3.90
+2014,3A2d,Caprinos,NE,NA,0.17,0.01,6.24,6.24
+2014,3A2e,Camellos,NE,NA,NO,NO,NA,NA
+2014,3A2f,Caballos,NE,NA,1.99,0.14,86.19,86.19
+2014,3A2g,Mulas y asnos,NE,NA,0.00,0.00,0.00,0.00
+2014,3A2h,Porcinos,NE,NA,2.98,0.97,363.16,363.16
+2014,3A2hi,Porcinos < 6 meses,NE,NA,1.26,0.37,141.22,141.22
+2014,3A2hii,Porcinos > 6 meses,NE,NA,1.73,0.60,221.94,221.94
+2014,3A2j,Otros,NE,NA,26.18,1.51,1016.96,1016.96
+2014,3B,Tierra,-22658.77,86356.30,0.11,NA,86358.62,63699.85
+2014,3B1,Tierras forestales,-15602.55,40844.40,NA,NA,40844.40,25241.85
+2014,3B1a,Tierras forestales que permanecen como tales,-12655.64,40844.40,NA,NA,40844.40,28188.75
+2014,3B1ai,Tierras forestales que permanecen como tales(Bosque natural),0.00,15508.15,NA,NA,15508.15,15508.15
+2014,3B1aii,Tierras forestales que permanecen como tales (Stock Change),-931.90,21723.02,NA,NA,21723.02,20791.12
+2014,3B1aiii,Tierras forestales que permanecen como tales (Plantaciones),-11723.75,3613.23,NA,NA,3613.23,-8110.51
+2014,3B1b,Tierras convertidas en tierras forestales,-2946.90,NA,NA,NA,NA,-2946.90
+2014,3B1bi,Tierras de cultivo convertidas en tierras forestales,-724.37,NA,NA,NA,NA,-724.37
+2014,3B1bii,Pastizales convertidos en tierras forestales,-2088.84,NA,NA,NA,NA,-2088.84
+2014,3B1biii,Humedales convertidos en tierras forestales,-48.07,NA,NA,NA,NA,-48.07
+2014,3B1biv,Asentamientos convertidos en tierras forestales,-47.17,NA,NA,NA,NA,-47.17
+2014,3B1bv,Otras tierras convertidas en tierras forestales,-38.44,NA,NA,NA,NA,-38.44
+2014,3B2,Tierras de cultivo,-6717.09,9164.21,NA,NA,9164.21,2447.12
+2014,3B2a,Tierras de cultivo que permanecen como tales,-6717.09,5910.62,NA,NA,5910.62,-806.47
+2014,3B2ai,Cultivo de café,-3551.94,3408.24,NA,NA,3408.24,-143.70
+2014,3B2aii,Palma,-1397.82,275.20,NA,NA,275.20,-1122.62
+2014,3B2aiii,Cacao,-505.08,0.00,NA,NA,0.00,-505.08
+2014,3B2aiv,Aguacate,-129.09,34.27,NA,NA,34.27,-94.82
+2014,3B2av,Caucho,-777.74,0.00,NA,NA,0.00,-777.74
+2014,3B2avi,Mango,-129.15,95.02,NA,NA,95.02,-34.12
+2014,3B2avii,Limón,-80.93,27.82,NA,NA,27.82,-53.11
+2014,3B2aviii,Mandarina,-60.52,6.37,NA,NA,6.37,-54.15
+2014,3B2aix,Naranja,-77.87,28.41,NA,NA,28.41,-49.45
+2014,3B2ax,Tangelo,-6.94,61.70,NA,NA,61.70,54.76
+2014,3B2axi,Otro,0.00,279.26,NA,NA,279.26,279.26
+2014,3B2b,Tierras convertidas en tierras de cultivo,NE,3253.59,NA,NA,3253.59,3253.59
+2014,3B2bi,Tierras forestales convertidas en tierras de cultivo,NA,3253.59,NA,NA,3253.59,3253.59
+2014,3B2bii,Pastizales convertidos en tierras de cultivo,NE,NE,NA,NA,NA,NA
+2014,3B2biii,Humedales convertidos en tierras de cultivo,NE,NE,NA,NA,NA,NA
+2014,3B2biv,Asentamientos convertidos en tierras de cultivo,NE,NE,NA,NA,NA,NA
+2014,3B2bv,Otras tierras convertidas en tierras de cultivo,NE,NE,NA,NA,NA,NA
+2014,3B3,Pastizales,-339.13,32612.11,NA,NA,32612.11,32272.98
+2014,3B3a,Pastizales que permanecen como tales,-339.13,2205.90,NA,NA,2205.90,1866.76
+2014,3B3b,Tierras convertidas en pastizales,NE,30406.22,NA,NA,30406.22,30406.22
+2014,3B3bi,Tierras forestales convertidas en pastizales,NA,30406.22,NA,NA,30406.22,30406.22
+2014,3B3bii,Tierras de cultivo convertidas en pastizales,NE,NE,NA,NA,NA,NA
+2014,3B3biii,Humedales convertidos en pastizales,NE,NE,NA,NA,NA,NA
+2014,3B3biv,Asentamientos convertidos en pastizales,NE,NE,NA,NA,NA,NA
+2014,3B3bv,Otras tierras convertidas en pastizales,NE,NE,NA,NA,NA,NA
+2014,3B4,Humedales,NE,661.64,0.11,NA,663.96,663.96
+2014,3B4a,Humedales que permanecen como tales,NA,5.97,0.11,NA,8.29,8.29
+2014,3B4b,Tierras convertidas en humedales,NE,655.68,NA,NA,655.68,655.68
+2014,3B4bi,Tierras forestales convertidas en humedales,NA,655.68,NA,NA,655.68,655.68
+2014,3B4bii,Tierras de cultivo convertidas en humedales,NE,NE,NA,NA,NA,NA
+2014,3B4biii,Pastizales convertidos en humedales,NE,NE,NA,NA,NA,NA
+2014,3B4biv,Asentamientos convertidos en humedales,NE,NE,NA,NA,NA,NA
+2014,3B4bv,Otras tierras convertidas en humedales,NE,NE,NA,NA,NA,NA
+2014,3B5,Asentamientos,NE,474.41,NA,NA,474.41,474.41
+2014,3B5a,Asentamientos que permanecen como tales,NE,NE,NA,NA,NA,NA
+2014,3B5b,Tierras convertidas en asentamientos,NE,474.41,NA,NA,474.41,474.41
+2014,3B5bi,Tierras forestales convertidas en Asentamientos,NA,474.41,NA,NA,474.41,474.41
+2014,3B5bii,Tierras de cultivo convertidas en Asentamientos,NE,NE,NA,NA,NA,NA
+2014,3B5biii,Pastizales convertidos en Asentamientos,NE,NE,NA,NA,NA,NA
+2014,3B5biv,Humedales convertidos en Asentamientos,NE,NE,NA,NA,NA,NA
+2014,3B5bv,Otras tierras convertidas en Asentamientos,NE,NE,NA,NA,NA,NA
+2014,3B6,Otras tierras,NE,2599.52,NA,NA,2599.52,2599.52
+2014,3B6a,Otras tierras que permanecen como tales,NA,NA,NA,NA,NA,NA
+2014,3B6b,Tierras convertidas en otras tierras,NE,2599.52,NA,NA,2599.52,2599.52
+2014,3B6bi,Tierras forestales convertidas en otras tierras,NA,2599.52,NA,NA,2599.52,2599.52
+2014,3B6bii,Tierras de cultivo convertidas en otras tierras,NE,NE,NA,NA,NA,NA
+2014,3B6biii,Pastizales convertidos en otras tierras,NE,NE,NA,NA,NA,NA
+2014,3B6biv,Humedales convertidos en otras tierras,NE,NE,NA,NA,NA,NA
+2014,3B6bv,Otras tierras convertidas en otras tierras,NE,NE,NA,NA,NA,NA
+2014,3C,Fuentes agregadas y emisiones de no CO2 provenientes de la tierra,NA,NA,60.02,61.52,20330.35,20330.35
+2014,3C1,Emisiones por quema de biomasa,NA,IE,35.90,1.06,1083.06,1083.06
+2014,3C1a,Emisiones del quemado de biomasa en Tierras forestales,NA,IE,33.00,0.97,993.90,993.90
+2014,3C1b,Emisiones del quemado de biomasa en Tierras de cultivo,NA,IE,2.69,0.07,79.04,79.04
+2014,3C1c,Emisiones del quemado de biomasa en Pastizales,NA,IE,0.21,0.02,10.11,10.11
+2014,3C1d,Emisiones del quemado de biomasa en Otras tierras,NA,NE,NE,NE,NA,NA
+2014,3C2,Encalado,NA,NE,NE,NA,NA,NA
+2014,3C3,Aplicación de urea,NA,NE,NE,NA,NA,NA
+2014,3C4,Emisiones directas de N2O de suelos gestionados,NA,NA,NA,49.24,15265.91,15265.91
+2014,3C4a,Fertilizante sintético (FSN),NA,NA,NA,6.08,1883.52,1883.52
+2014,3C4b,Fertilizante orgánico (FON),NA,NA,NA,0.16,48.15,48.15
+2014,3C4c,Residuos de cultivo incluidos los fijadores de nitrogeno y de forraje en la renovación de pasturas (FCR),NA,NA,NA,0.84,259.00,259.00
+2014,3C4d,Mineralización por cambio en el uso o manejo (FSOM),NA,NA,NA,1.77,549.56,549.56
+2014,3C4e,Gestión de suelos histosoles (FOS),NA,NA,NA,6.68,2070.30,2070.30
+2014,3C4f,Orina y estiércol de animales en pastoreo (FPRP),NA,NA,NA,33.73,10455.37,10455.37
+2014,3C5,Emisiones indirectas de N2O de suelos gestionados,NA,NA,NA,9.93,3078.55,3078.55
+2014,3C5a,Volatilización - Fertilizante sintético (FSN),NA,NA,NA,0.64,199.90,199.90
+2014,3C5b,Volatilización - Fertilizante orgánico (FON),NA,NA,NA,0.03,9.63,9.63
+2014,3C5c,Volatilización - Orina y estiércol de animales en pastoreo (FPRP),NA,NA,NA,3.37,1045.54,1045.54
+2014,3C5d,Lixiviación/escurrimiento Fertilizante sintético (FSN),NA,NA,NA,1.45,449.77,449.77
+2014,3C5e,Lixiviación/escurrimiento Fertilizante orgánico (FON),NA,NA,NA,0.03,10.83,10.83
+2014,3C5f,Lixiviación/escurrimiento Residuos de cultivo incluidos los fijadores de nitrogeno y de forraje en la renovación de pasturas (FCR),NA,NA,NA,0.20,63.00,63.00
+2014,3C5g,Lixiviación/escurrimiento Mineralización por cambio en el uso o manejo (FSOM),NA,NA,NA,0.40,123.65,123.65
+2014,3C5h,Lixiviación/escurrimiento - Orina y estiércol de animales en pastoreo (FPRP),NA,NA,NA,3.79,1176.23,1176.23
+2014,3C6,Emisiones indirectas de N2O de gestión de estiércol,NA,NA,NA,1.28,396.17,396.17
+2014,3C6a,Total Ganado Bovino,NE,NA,NA,0.33,102.09,102.09
+2014,3C6ai,Ganado Bovino Vacas de Alta Produccion,NE,NA,NA,0.02,5.08,5.08
+2014,3C6aii,Ganado Bovino Vacas de Baja Produccion,NE,NA,NA,0.07,22.47,22.47
+2014,3C6aiii,Ganado Bovino Vacas para produccion de carne,NE,NA,NA,0.10,31.68,31.68
+2014,3C6aiv,Ganado Bovino Toros utilizados con fines reproductivos,NE,NA,NA,0.02,5.93,5.93
+2014,3C6av,Ganado Bovino Terneros pre-destetos,NE,NA,NA,0.01,4.36,4.36
+2014,3C6avi,Ganado Bovino Terneras de remplazo,NE,NA,NA,0.03,10.44,10.44
+2014,3C6avii,Ganado Bovino Ganado de engorde,NE,NA,NA,0.07,22.14,22.14
+2014,3C6b,Búfalos,NE,NA,NA,0.00,0.76,0.76
+2014,3C6c,Ovinos,NE,NA,NA,0.00,0.91,0.91
+2014,3C6d,Caprinos,NE,NA,NA,0.00,1.10,1.10
+2014,3C6e,Camellos,NE,NA,NA,NO,NA,NA
+2014,3C6f,Caballos,NE,NA,NA,0.02,4.72,4.72
+2014,3C6g,Mulas y asnos,NE,NA,NA,0.00,0.00,0.00
+2014,3C6h,Porcinos,NE,NA,NA,0.30,93.13,93.13
+2014,3C6hi,Porcinos < 6 meses,NE,NA,NA,0.12,37.48,37.48
+2014,3C6hii,Porcinos > 6 meses,NE,NA,NA,0.18,55.65,55.65
+2014,3C6j,Otros,NE,NA,NA,0.62,193.47,193.47
+2014,3C7,Cultivo de arroz,NE,NA,24.13,NA,506.67,506.67
+2014,3C7a,Cultivo de arroz  Riego,NE,NA,18.98,NA,398.66,398.66
+2014,3C7b,Cultivo de arroz Secano,NE,NA,5.14,NA,108.01,108.01
+2014,4,Residuos,NA,406.8,636.4,2.1,14413.8,14413.8
+2014,4A,Eliminación de desechos sólidos,NA,NA,311.7,NE,6546.7,6546.7
+2014,4A1,Sitios gestionados de eliminación de desechos,NA,NA,290.3,NE,6095.3,6095.3
+2014,4A1a,Rellenos regionales,NA,NA,238.6,NE,5010.6,5010.6
+2014,4A1b,Rellenos locales. plantas integrales y celdas de contingencia,NA,NA,51.7,NE,1084.8,1084.8
+2014,4A2,Sitios no gestionados de eliminación de desechos,NA,NA,IE,NA,IE,IE
+2014,4A3,Sitios no categorizados de eliminación de desechos,NA,NA,21.5,NE,451.4,451.4
+2014,4B,Tratamiento biológico de los desechos sólidos,NA,NA,NE,NE,NE,NE
+2014,4C,Incineración e incineración abierta de desechos,NA,406.8,6.1,0.1,579.8,579.8
+2014,4C1,Incineración de desechos,NA,89.8,NE,NE,89.8,89.8
+2014,4C2,Incineración abierta de desechos,NA,316.9,6.1,0.1,490.0,490.0
+2014,4D,Tratamiento y eliminación de aguas residuales.,NA,NA,318.5,1.9,7287.3,7287.3
+2014,4D1,Tratamiento y eliminación de aguas residuales domésticas,NA,NA,99.7,1.9,2693.0,2693.0
+2014,4D1a,Población cabecera municipal,NA,NA,66.3,1.5,1849.7,1849.7
+2014,4D1ai,Alcantarillado y PTAR,NA,NA,33.0,0.5,832.9,832.9
+2014,4D1aii,Alcantarillado sin PTAR,NA,NA,24.5,0.9,796.0,796.0
+2014,4D1aiii,Sin alcantarillado,NA,NA,8.8,0.1,220.8,220.8
+2014,4D1b,Población rural (sin alcantarillado),NA,NA,33.4,0.5,843.3,843.3
+2014,4D2,Tratamiento y eliminación  de aguas residuales industriales,NA,NA,218.8,NE,4594.2,4594.2
+2014,4E,Otros,NA,NA,NA,NA,NA,NA
+2014,5,Otros,0.00,0.00,0.00,0.00,0.00,0.00
+2014,5A,Emisiones indirectas de N2O de la deposición atmosférica de nitrógeno como NOx y NH3,NA,NA,NA,NE,NA,NA
+2014,5B,Otros,NA,NA,NA,NO,NA,NA
