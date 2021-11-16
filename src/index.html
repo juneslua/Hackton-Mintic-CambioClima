@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3 Zoom</title>
+    <script src="http://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;700&display=swap');</style>
+</head>
+<style>
+    body{
+        background: #F2E4C9;
+        font-family: 'Mukta', sans-serif;
+        font-size: 15px;
+    }
+    head{
+        width: 100%;
+    }
+    .container h1{
+        font-size: 30px;
+        color: darkgreen;
+        text-align: center;
+    }
+    .container{
+        width: 100%;
+        display: flex;
+        margin: 0;
+        overflow: hidden;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .container__comp{
+        border-radius: 45px;
+        width: 60%;
+        margin: 0 20px 0 15px;
+    }
+    .agroindustria{
+        background-color: #A0B93C;
+        border: 3px solid #8F5100;
+    }
+    .energiaindustria{
+        background-color: #d17906;
+        border: 3px solid #533917;
+    }
+    .procesosindustria{
+        background-color: #0e40c9;
+        border: 3px solid #a5f0c1;        
+    }
+    .residuosindustria{
+        background-color: #967211;
+        border: 3px solid #f0dea5;        
+    }
+    .compuestos{
+        width: 100%;
+        display: flex;
+        padding: 0;
+        justify-content: center;
+    }
+    .node_names{
+        color: #fff;
+        font-size: 45px;
+        position: absolute;
+        pointer-events: none;
+        display: none;
+        user-select: none;
+    }
+    .container__agro{
+        display: flex;
+        align-items: center;
+        padding: 0;
+    }
+    .container__energia{
+        position: flex;
+        align-items: center;
+        padding: 0;
+    }
+    .container__industry{
+        position: flex;
+        align-items: center;
+        padding: 0;
+    }
+    .container__residuos{
+        position: flex;
+        align-items: center;
+        padding: 0;
+    }
+    .gases{
+        position: relative;
+        display: inline-block;
+        object-fit: cover;
+        width: 30%;
+        padding: 0;
+        margin: 0;
+    }
+    .d3CircleAgro{
+        font-size: 20px;
+        object-fit: cover;
+        max-height: 90vh;
+        max-width: 90vh;
+    }
+    .d3CircleEnergia{
+        font-size: 20px;
+        object-fit: cover;
+        max-height: 90vh;
+        max-width: 90vh;
+    }
+    .d3CircleIndustry{
+        font-size: 20px;
+        object-fit: cover;
+        max-height: 90vh;
+        max-width: 90vh;
+    }
+    .slice {
+        cursor: pointer;
+    }
+    .slice .main-arc{
+        stroke: #F2E4C9;
+        stroke-width: 3px;
+    }
+    .slice .hidden-arc{
+        fill: none;
+    }
+    .slice text{
+        pointer-events: none;
+        text-anchor: middle;
+    }
+</style>
+<body>
+    <head>
+        <div class="titulo">
+            <h1><span style="color:yellow">COL</span><span style="color:blue">OM</span><span style="color:red">BIA<span></h1>
+        </div>
+    </head>
+    <section class="container container__agro">
+        <div class="container__comp agroindustria">
+            <h1>AGRICULTURA, SILVICULTURA Y OTROS USOS DE LA TIERRA</h1>
+            <div class="compuestos">
+                <div class="gases comp1"></div>
+                <div class="gases comp2"></div>
+                <div class="gases comp3"></div>
+            </div>
+        </div>
+        <div class="d3CircleAgro"></div>
+    </section>
+    <section class="container container__industry">
+        <div class="d3CircleIndustry"></div>
+        <div class="container__comp procesosindustria">
+            <h1>PROCESOS INDUSTRIALES Y USO DE PRODUCTOS</h1>
+            <div class="compuestos">
+                <div class="gases comp7"></div>
+                <div class="gases comp8"></div>
+                <div class="gases comp9"></div>
+            </div>
+        </div>
+    </section>
+    <section class="container container__residuos">
+        <div class="container__comp residuosindustria">
+            <h1>RESIDUOS</h1>
+            <div class="compuestos">
+                <div class="gases comp10"></div>
+                <div class="gases comp11"></div>
+                <div class="gases comp12"></div>
+            </div>
+        </div>
+        <div class="d3CircleResiduos"></div>
+    </section>
+    <section class="container container__energia">
+        <div class="d3CircleEnergia"></div>
+        <div class="container__comp energiaindustria">
+            <h1>ENERGIA</h1>
+            <div class="compuestos">
+                <div class="gases comp4"></div>
+                <div class="gases comp5"></div>
+                <div class="gases comp6"></div>
+            </div>
+        </div>
+    </section>
+    <script src="./main.js"></script>
+    <script src="./comp.js"></script>
+</body>
+</html>
